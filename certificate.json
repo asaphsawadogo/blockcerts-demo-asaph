@@ -1,0 +1,12 @@
+{
+  "@context": ["https://w3id.org/blockcerts/v3"],
+  "type": ["VerifiableCredential", "BlockcertsCredential"],
+  "issuer": "did:example:univ-demo-esta",
+  "issuanceDate": "2025-09-10T00:00:00Z",
+  "credentialSubject": {
+    "id": "did:example:recipient:asaph",
+    "name": "SAWADOGO Asaph",
+    "programme": "Licence Professionnelle RIT",
+    "institution": "ESTA Burkina Faso"
+  }
+}
